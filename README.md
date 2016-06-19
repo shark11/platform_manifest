@@ -21,7 +21,6 @@ Sync the repository:
 
     $ repo sync
 
-***
 
 Building
 --------
@@ -36,14 +35,17 @@ You can also build for specific devices (eg. mt6582) like this:
     $ . build/envsetup.sh
     $ brunch mokp_mt6582-userdebug
 
+***
+
 TeamMOKP
 --------
 
     - rohantaneja (Rohan Taneja)
     - UchihaDev (Ajit Guraya)
     - MrUnt1tled (John Reinel Caluag)
-    - diparthshah (DIPARTH SHAH)
-    - Roger That Members (Pawan, Ashutosh, Vipul, Pranav, Ankit)
+    - diparthshah (Diparth Shah)
+    - vipuljha08 (Vipul Jha)
+    - Roger That Members (Pawan, Ashutosh, Pranav, Ankit)
 
 Special Mention
 ---------------
